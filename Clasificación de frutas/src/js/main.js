@@ -1,3 +1,5 @@
+console.log("Frutas")
+
 let frutas = [{nombre: "banano", citrico: false}, 
 {nombre: "limon", citrico: true}, 
 {nombre: "manzana", citrico: false}, 
