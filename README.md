@@ -16,7 +16,8 @@ Almacena las notas en un arreglo. Calcula el promedio de las notas y determina s
 aprobó o reprobó el curso (aprobando con un promedio mayor o igual a 3.0). Imprime en la
 consola el promedio, la clasificación final (aprobado o reprobado) y todas las notas utilizando los
 métodos de impresión adecuados.
-## 4. Juego de adivinanzas:Crea un juego de adivinanzas donde el usuario deba intentar adivinar un número secreto generado
+## 4. Juego de adivinanzas:
+Crea un juego de adivinanzas donde el usuario deba intentar adivinar un número secreto generado
 aleatoriamente. Proporciona pistas al usuario indicando si su suposición es mayor, menor o igual al
 número secreto. Utiliza los métodos log, warn y error para imprimir mensajes informativos al
 usuario durante el juego.
