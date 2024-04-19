@@ -28,4 +28,3 @@ if (promedio < 3.0) {
     estado = true
     console.info("Aprobaste")
 } 
-

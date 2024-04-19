@@ -1,4 +1,4 @@
-console.log("Frutas")
+console.log("Clasificación de Frutas")
 
 let frutas = [{nombre: "banano", citrico: false}, 
 {nombre: "limon", citrico: true}, 
